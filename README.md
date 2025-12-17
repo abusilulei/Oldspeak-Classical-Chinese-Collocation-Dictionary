@@ -1,5 +1,6 @@
 # Oldspeak-Classical-Chinese-Collocation-Dictionary
 Author: Yifei Liu
+
 Date: 2025-05-01
 
 ## Overview:
@@ -10,7 +11,7 @@ You can search vocabulary, collocations, and linguistic patterns from ancient te
 It is perfect for students, scholars, and language enthusiasts eager to master the nuances of classical Chinese writing.
 
 
-## Dictionary website: 
+## Official Dictionary website: 
 See the dictionary online at:
 
 https://oldspeak.corpora.my
