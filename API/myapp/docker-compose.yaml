@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  myapp:
+    build: .
+    volumes:
+      - ./myapp:/app/myapp
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: "postgresql://postgres:beTgun-gavdom-symhy6@10.104.0.2:5432/oldspeak"
+      # DATABASE_URL: "postgresql://postgres:beTgun-gavdom-symhy6@68.183.176.182:5432/oldspeak"
